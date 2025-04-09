@@ -1,6 +1,6 @@
 [![LaravelTest](https://github.com/Trane54/CuentaTest/actions/workflows/laravel.yml/badge.svg)](https://github.com/Trane54/CuentaTest/actions/workflows/laravel.yml)
 
-# 💸 Projecte `Cuenta` amb TDD (Laravel)
+# 💸 Projecte `CuentaTest` amb TDD (Laravel)
 
 Aquest projecte implementa una classe `Cuenta` que simula el comportament d’un compte bancari. El desenvolupament s’ha realitzat seguint la metodologia **TDD (Test Driven Development)** amb Laravel i PHPUnit.
 
@@ -70,7 +70,7 @@ Per executar els tests:
 
 ```bash
 php artisan test
-
+```
 
 ## License
 
